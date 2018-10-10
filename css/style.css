@@ -1,0 +1,16 @@
+.intro{
+  color: blue;
+}
+.about{
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 20px;
+}
+.list{
+  font-size: 20px;
+}
+
+.skills{
+  font-weight: bold;
+  color: red;
+}
